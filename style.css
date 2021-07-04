@@ -35,3 +35,6 @@ h1 span{
 .half-width img{
     width: 90%;
 }
+.dream-bg {
+    background: url(images/dream-bg.png) no-repeat right;
+}
