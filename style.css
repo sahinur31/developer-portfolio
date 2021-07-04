@@ -55,3 +55,7 @@ h1 span{
     border-image: linear-gradient(blue,cyan);
     border-image-slice: 1;
 }
+footer {
+    text-align: center;
+    padding: 10px 0;
+}
